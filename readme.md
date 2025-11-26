@@ -1,9 +1,9 @@
-Tools for Data Science Hands-On Exercise
+### Tools for Data Science Hands-On Exercise
 Overview
 
 This repository contains my hands-on exercises for the Tools for Data Science course. It covers key tools, languages, and environments that I used to practise and understand data science workflows.
 
-What I Learned
+## What I Learned
 
 Popular languages for Data Science: Python, R, SQL, and others
 
@@ -15,10 +15,11 @@ Working with Jupyter Notebook and JupyterLab
 
 Basics of version control with Git and GitHub
 
-Contents
+## Contents
 
 Notebooks for each module from 1 to 5
 
 Sample datasets used in the exercises
+
 
 This README file
